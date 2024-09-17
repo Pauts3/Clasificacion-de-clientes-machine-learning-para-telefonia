@@ -1,4 +1,4 @@
-# intro_machine_learning
+# Clasificación de clientes: machine learning para telefonía 
 
 Portafolio con proyectos realizados en el Bootcamp de Tripleten Data Science
 
